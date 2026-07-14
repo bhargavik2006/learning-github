@@ -1,3 +1,3 @@
 # learning-github
 learning github
-Author - Bhargavi Kharvi
+Author - Bhargavi Kharvi(student)
